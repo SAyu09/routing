@@ -1,0 +1,12 @@
+.navbar{
+    background-color: rgb(225, 134, 16);
+    
+}
+.menu{
+    display: flex;
+    list-style: none;
+    padding: 10px;
+}
+.item{
+    margin:10px;
+}
